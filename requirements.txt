@@ -1,0 +1,8 @@
+What resources I used for this project:
+- my own debian 10 server
+- python-3.7.3
+- packages: python3-pandas-0.23.3
+- packages: python3-click-7.0
+- google search
+- nanodegree forums
+- python friends (mentors are for nothing in outside of US with reaction of hours)
